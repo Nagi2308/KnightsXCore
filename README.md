@@ -6,9 +6,10 @@
 <p align="center">
   <b>Your All-in-One Telegram Developer Utility Bot — Smart, Fast & Reliable</b><br><br>
 
-  <a href="https://t.me/KnightsXbots"><img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram"></a>
-  <a href="https://t.me/Knightxbotsupport"><img src="https://img.shields.io/badge/Telegram-SupportGroup-blue?logo=telegram"></a>
-  <a href="https://github.com/Nagi2308"><img src="https://img.shields.io/badge/GitHub-KnightsXCore-black?logo=github"></a>
+ <a href="https://t.me/KnightsXbots"><img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram"></a>
+  <a href="https://youtube.com/@knightsxbots?si=PL2bPA8Iwd0b0E7h"><img src="https://img.shields.io/badge/YouTube-KnightsXbots-red?logo=youtube"></a>
+  <a href="https://github.com/Nagi2308/Knightsxbots/blob/main/Knightsxbots.md"><img src="https://img.shields.io/badge/GitHub-KnightsXbots-black?logo=github"></a>
+  <a href="https://www.instagram.com/knightsxbots/profilecard/?igsh=MWRjMjdoNnI3ZjZ2Zw=="><img src="https://img.shields.io/badge/Instagram-KnightsXbots-E4405F?logo=instagram&logoColor=white"></a>
 </p>
 
 ---
@@ -38,14 +39,26 @@
 
 ---
 
-## 📸 Screenshot
-![KnightX Core Bot Screenshot](https://files.catbox.moe/wr8i8u.jpg)
+## 🧑‍💻 Core Team
+
+| Role        | Username         |
+|-------------|------------------|
+| 👨‍💻 Generator | [@Nagi2308](https://t.me/Nagi2308)   |
+| 👑 Operator | [@Cruttobriid](https://t.me/Cruttobriid) |
 
 ---
 
-## 📦 Installation
+## 📢 Join the Movement
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/YOURUSERNAME/knightx-core-bot.git
-   cd knightx-core-bot
+- 📍 Telegram Channel: [@KnightsXbots](https://t.me/KnightsXbots)
+- ▶️ YouTube: [Knights X Bots](https://youtube.com/@knightsxbots?si=PL2bPA8Iwd0b0E7h)
+- 🖥️ GitHub: [KnightsXbots Repository](https://github.com/Nagi2308/Knightsxbots/blob/main/Knightsxbots.md)
+- 📸 Instagram: [@knightsxbots](https://www.instagram.com/knightsxbots/profilecard/?igsh=MWRjMjdoNnI3ZjZ2Zw==)
+
+> **Quality. Innovation. Power.**  
+> Be part of the revolution — we’re just getting started.
+
+---
+
+> _© 2025 Knights X Bots – All bots are made with ❤️ for the Telegram community._
+> 
