@@ -2,7 +2,7 @@
   <img src="https://files.catbox.moe/wr8i8u.jpg" width="400"/>
 </p>
 
-<h2 align="center"><b>⚔️ KnightX Core Bot</b></h2>
+<h2 align="center"><b>⚔️ Knight X Core Bot</b></h2>
 <p align="center">
   <b>Your All-in-One Telegram Developer Utility Bot — Smart, Fast & Reliable</b><br><br>
 
@@ -14,9 +14,9 @@
 
 ---
 
-## 🚀 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴋɴɪɢʜᴛx ᴄᴏʀᴇ ʙᴏᴛ
+## 🚀 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴋɴɪɢʜᴛ x ᴄᴏʀᴇ ʙᴏᴛ
 
-> The **KnightX Core Bot** is your **Swiss Army knife for Telegram developers and bot creators** — designed to save time, simplify workflows, and provide instant access to essential tools.
+> The **Knight X Core Bot** is your **Swiss Army knife for Telegram developers and bot creators** — designed to save time, simplify workflows, and provide instant access to essential tools.
 
 ---
 
