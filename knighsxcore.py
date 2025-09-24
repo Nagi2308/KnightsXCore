@@ -4,9 +4,9 @@ import requests
 import os
 
 # ---------------- CONFIG ----------------
-API_ID = 20924129          # your api_id
-API_HASH = "41fa64770dfccb944a7d1397a4c4129b"
-BOT_TOKEN = "8042224983:AAFlwMLmroTHMa8sZC0A-CXT40CUkcriVU0"
+API_ID =          # your api_id
+API_HASH = ""
+BOT_TOKEN = ""
 # -----------------------------------------
 
 bot = Client(
